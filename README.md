@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work. Rebasing exercise
 More changes from myfeature branch
+Emergency fix after the stash
 
 ## Purpose
 

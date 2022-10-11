@@ -13,3 +13,7 @@ The deployment process will be done manually
 ## Future features
 
 To be defined
+
+### Copyright
+
+2022 Igor-Git.Training.

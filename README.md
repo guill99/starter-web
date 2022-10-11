@@ -14,6 +14,10 @@ The deployment process will be done manually
 
 To be defined
 
+## How To Contribute
+
+Please fork this repository and then issue Pull Request for review.
+
 ### Copyright
 
 2022 Igor-Git.Training.
